@@ -1,0 +1,15 @@
+{
+    "puerto":"COM3",
+    "baudios": 9600,
+    "credenciales" : {
+    "host":"localhost",
+    "database":"arduinobd2",
+    "user":"arduino",
+    "password":"root",
+    "raise_on_warnings": "True"
+    },
+    "tableName": "prueba",
+    "fields": [
+        { "name":"value","type":"FLOAT(10,2)" }
+    ]
+}

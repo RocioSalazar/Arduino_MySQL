@@ -1,0 +1,9 @@
+test.py
+test1.py
+test2.py
+test3.py
+*.sql
+*.csv
+*.pyc
+.vscode/c_cpp_properties.json
+.vscode/settings.json
